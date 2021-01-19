@@ -1,0 +1,111 @@
+{% extends 'home/base.html' %}
+{% load static %}
+
+{% block contact %}
+
+<section class="page-title page-title-layout1 bg-overlay bg-parallax">
+      <div class="bg-img"><img src={% static "assets/images/page-titles/1.jpg "%} alt="background"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
+            <h1 class="pagetitle__heading">Contact Us</h1>
+            <p class="pagetitle__desc">We are experienced professionals who understand that It services is changing, and
+              are true partners who care about your success. Our team provides a consultative approach on emerging
+              technology.
+            </p>
+          </div><!-- /.col-xl-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.page-title -->
+
+
+    <!-- ==========================
+        contact layout 1
+    =========================== -->
+    <section class="contact-layout1">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-6">
+            <form class="contact-panel__form" method="post" action={% static "assets/php/contact.php" %} id="contactForm">
+              <div class="row">
+                <div class="col-sm-12">
+                  <h4 class="contact-panel__title">Get In Touch</h4>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                  <div class="form-group">
+                    <label for="contact-name">Name (required)</label>
+                    <input type="text" class="form-control" placeholder="Name" id="contact-name" name="contact-name"
+                      required>
+                  </div>
+                </div><!-- /.col-lg-6 -->
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                  <div class="form-group">
+                    <label for="contact-email">Email (required)</label>
+                    <input type="email" class="form-control" placeholder="Email" id="contact-email" name="contact-email"
+                      required>
+                  </div>
+                </div><!-- /.col-lg-6 -->
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                  <div class="form-group">
+                    <label for="contact-Phone">Phone (required)</label>
+                    <input type="text" class="form-control" placeholder="Phone" id="contact-Phone" name="contact-phone"
+                      required>
+                  </div>
+                </div><!-- /.col-lg-6 -->
+                <div class="col-sm-6 col-md-6 col-lg-6">
+                  <div class="form-group">
+                    <label for="contact-website">Website (optional)</label>
+                    <input type="text" class="form-control" placeholder="Website (optional)" id="contact-website"
+                      name="contact-website">
+                  </div>
+                </div><!-- /.col-lg-6 -->
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                  <div class="form-group mb-20">
+                    <label for="contact-message">Additional Details (optional)</label>
+                    <textarea class="form-control" placeholder="Describe your inquirey!" id="contact-message"
+                      name="contact-message"></textarea>
+                  </div>
+                  <div class="custom-control custom-checkbox d-flex align-items-center  mb-20">
+                    <input type="checkbox" class="custom-control-input" id="terms">
+                    <label class="custom-control-label" for="terms">I accept the privacy and terms.</label>
+                  </div>
+                  <button type="submit" class="btn btn__secondary btn__block ">Submit Request</button>
+                  <div class="contact-result"></div>
+                </div><!-- /.col-lg-12 -->
+              </div><!-- /.row -->
+            </form>
+          </div><!-- /.col-lg-6 -->
+          <div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1">
+            <div class="contact-panel__info bg-overlay bg-overlay-primary">
+              <div class="bg-img"><img src={% static "assets/images/contact/1.jpg" %} alt="banner"></div>
+              <div class="contact-block">
+                <h5 class="contact-block__title">Our Location</h5>
+                <ul class="contact-block__list list-unstyled">
+                  <li>2307 Beverley Rd Brooklyn, New York 11226 United States.</li>
+                </ul>
+              </div><!-- /.contact-panel__info__block -->
+              <div class="contact-block">
+                <h5 class="contact-block__title">Quick Contact</h5>
+                <ul class="contact-block__list list-unstyled">
+                  <li><a href="mailto:hello@assignguru.com"></a>Email: hello@assignguru.com</li>
+                  <li><a href="mailto:hello@assignguru.com"></a>Support: hello@assignguru.com</li>
+                </ul>
+              </div><!-- /.contact-panel__info__block -->
+              <div class="contact-block">
+                <h5 class="contact-block__title">Opening Hours</h5>
+                <ul class="contact-block__list list-unstyled">
+                  <li>Monday - Friday</li>
+                  <li>09:00 AM - 06:00 PM</li>
+                </ul>
+              </div><!-- /.contact-panel__info__block -->
+              <a href="contacs.html" class="btn btn__white btn__bordered btn__icon btn__xl">
+                <span>Find Your Solution</span>
+                <i class="icon-arrow-right"></i>
+              </a>
+            </div>
+          </div><!-- /.col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.contact layout 1 -->
+
+{% endblock contact %}

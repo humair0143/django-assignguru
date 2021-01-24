@@ -1169,7 +1169,7 @@ h6 {
     page title 
 -------------------------*/
 .header-transparent + .page-title {
-  margin-top: -100px;
+  margin-top: -200px;
 }
 
 .pagetitle__subheading {
@@ -4730,7 +4730,7 @@ input[type=radio] {
 ------------------------*/
 .portfolio-item {
   position: relative;
-  margin-bottom: 47px;
+  margin-bottom: 0px; /*-- before 47 --*/
 }
 
 .portfolio-item .portfolio-item__img {
@@ -4747,7 +4747,7 @@ input[type=radio] {
 }
 
 .portfolio-item .portfolio-item__content {
-  padding: 26px 0 0 40px;
+  padding: 0px 0 0 0px;  /*-- before padding: 26px 0 0 40px; */
 }
 
 .portfolio-item .portfolio-item__cat {
@@ -7793,7 +7793,7 @@ white mr-30
 
 .process-item {
   position: relative;
-  padding-bottom: 65px;
+  padding-bottom: 10px; /*-- before 65 --*/
 }
 
 .process-item .process-item__number {
@@ -7801,7 +7801,7 @@ white mr-30
   font-size: 26px;
   line-height: 1;
   position: relative;
-  padding-top: 70px;
+  padding-top: 10px;  /* -- before 70 --*/
   -webkit-box-flex: 0;
       -ms-flex: 0 0 18.5%;
           flex: 0 0 18.5%;
@@ -7820,7 +7820,7 @@ white mr-30
 
 .process-item .process-item__content {
   position: relative;
-  padding-top: 70px;
+  padding-top: 10px;   /* -- before 70 -- */
   -webkit-box-flex: 0;
       -ms-flex: 0 0 81.5%;
           flex: 0 0 81.5%;

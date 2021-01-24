@@ -25,7 +25,10 @@ SECRET_KEY = '&hx3s#ayjuc2745cgd_ze7l9un5v!^k&a22!359w1!)xwdao%g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'www.assignguru.com',
+    '127.0.0.1',
+    ]
 
 
 # Application definition
@@ -119,3 +122,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = '/home/assignguru/django-assignguru/static'

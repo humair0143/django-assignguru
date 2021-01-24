@@ -9,4 +9,7 @@ urlpatterns = [
     path("process", views.process, name="process"),
     path("services", views.services, name="services"),
     path("samples", views.samples, name="samples"),
+    path("mcqs", views.mcqs, name="mcqs"),
+    path("upload", views.set_upload , name="upload"),
+    path("mcqs/<str:entry>", views.entry, name="entry"),
 ]

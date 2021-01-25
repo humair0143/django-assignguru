@@ -47,7 +47,6 @@
           <div class="container">
             <div class="row">
               <div class="col-12 d-flex justify-content-center align-items-center">
-                <span class="topbar__text color-white mr-30">Get a free Quote Now:</span>
                 <div class="d-flex">
                   <a href="mailto:hello@assignguru.com" class="btn btn__white btn__download mx-2">
                     <i class="fas fa-envelope fa-lg"></i>
@@ -92,17 +91,21 @@
                 <a href="{% url 'services' %}" class="nav__item-link">Services</a>
               </li><!-- /.nav-item -->
 
+
+
+<!--/
               <li class="nav__item">
                 <a href="{% url 'samples' %}" class="nav__item-link">Samples</a>
-              </li><!-- /.nav-item -->
+              </li>
               
               <li class="nav__item">
                 <a href="{% url 'reviews' %}" class="nav__item-link">Reviews</a>
-              </li><!-- /.nav-item -->
+              </li>
 
               <li class="nav__item">
                 <a href="{% url 'mcqs' %}" class="nav__item-link">MCQs</a>
-              </li><!-- /.nav-item -->
+              </li>
+-->
 
               <li class="nav__item">
                 <a href="{% url 'contact' %}" class="nav__item-link">Contact</a>
@@ -150,7 +153,7 @@
               <div class="contact-info">
                 <h6 class="footer-widget__title">Our Address</h6>
                 <ul class="contact-list list-unstyled mb-0">
-                  <li>2307 Beverley Rd , New York 11226 U.S.</li>
+                  <li>12 Univesity Rd, Waterloo ON Canada.</li>
                 </ul>
               </div><!-- /.contact-info -->
             </div><!-- /.col-lg-2 -->
@@ -158,18 +161,11 @@
               <div class="contact-info">
                 <h6 class="footer-widget__title">Opening Hours</h6>
                 <ul class="contact-list list-unstyled mb-0">
-                  <li>Mon - Fri: 8am - 7pm</li>
-                  <li>Sat - Sun: 9 am - 8pm</li>
+                  <li>24-7 / 365</li>
                 </ul>
               </div><!-- /.contact-info -->
             </div><!-- /.col-lg-2 -->
-            <div class="col-sm-12 col-md-8 col-lg-6">
-              <h6 class="footer-widget__title">Newsletter</h6>
-              <form class="footer-form d-flex mb-0">
-                <input type="text" class="form-control mr-20" placeholder="Your Email Address">
-                <button type="submit" class="btn btn__primary btn__primary-style2">Subscribe</button>
-              </form>
-            </div><!-- /.col-lg-6 -->
+
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div><!-- /.footer-contact -->
@@ -181,9 +177,7 @@
                 <a href="{% url 'home' %}">
                 <img src={% static "assets/images/logo/logo-light.png" %} alt="logo" class="mb-30">
                 </a>
-                <p class="color-gray mb-40">We are experienced professionals who understand that It services is
-                  changing, and are
-                  true partners who care about your future business success.</p>
+                <p class="color-gray mb-40">We go over and above to achieved academic excellence.</p>
                 <ul class="social-icons list-unstyled mb-0">
                   <li><a href="https://www.facebook.com/AssignGuruu" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a></li>
                   <li><a href="#" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>
@@ -191,59 +185,30 @@
                 </ul><!-- /.social-icons -->
               </div><!-- /.footer-widget__content -->
             </div><!-- /.col-xl-2 -->
+
             <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
               <h6 class="footer-widget__title">Company</h6>
               <div class="footer-widget__content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="leadership-team.html">Meet Our Team</a></li>
-                    <li><a href="blog.html">News & Media</a></li>
-                    <li><a href="projects-grid.html">Case Studies</a></li>
-                    <li><a href="contacs.html">Contacts</a></li>
-                    <li><a href="#">Investors</a></li>
+                    <li><a href="{% url 'process' %}">Process</a></li>
+                    <li><a href="{% url 'services' %}">Services</a></li>
+                    <li><a href="{% url 'contact' %}">Contact</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget__content -->
             </div><!-- /.col-lg-2 -->
+
             <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
-              <h6 class="footer-widget__title">Solutions</h6>
+              <h6 class="footer-widget__title">Still have questions?</h6>
               <div class="footer-widget__content">
-                <nav>
-                  <ul class="list-unstyled">
-                    <li><a href="#">IT Management</a></li>
-                    <li><a href="#">Cyber Security</a></li>
-                    <li><a href="#">Cloud Computing</a></li>
-                    <li><a href="#">IT Consulting</a></li>
-                    <li><a href="#">Software Dev</a></li>
-                    <li><a href="#">IT Support</a></li>
-                  </ul>
-                </nav>
-              </div><!-- /.footer-widget__content -->
-            </div><!-- /.col-lg-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
-              <h6 class="footer-widget__title">Resources</h6>
-              <div class="footer-widget__content">
-                <nav>
-                  <ul class="list-unstyled">
-                    <li><a href="pricing.html">Pricing and plans</a></li>
-                    <li><a href="#">Terms of Service</a></li>
-                    <li><a href="faqs.html">Help & FAQ</a></li>
-                    <li><a href="contacs.html">Contact Us</a></li>
-                    <li><a href="#">Site map</a></li>
-                  </ul>
-                </nav>
-              </div><!-- /.footer-widget__content -->
-            </div><!-- /.col-lg-2 -->
-            <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
-              <h6 class="footer-widget__title">We're Hiring</h6>
-              <div class="footer-widget__content">
-                <p class="fz-14 color-white">Interested in joining the Mintech team?</p>
-                <a href="careers.html" class="btn btn__primary btn__primary-style2 btn__link">
-                  <span>Our Careers</span><i class="icon-arrow-right icon-outlined"></i>
+                <p class="fz-14 color-white">Get in touch</p>
+                <a href={% url 'services' %} class="btn btn__primary btn__primary-style2 btn__link">
+                  <span>Our Services</span><i class="icon-arrow-right icon-outlined"></i>
                 </a>
               </div><!-- /.footer-widget__content -->
             </div><!-- /.col-lg-2 -->
+
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div><!-- /.footer-primary -->
@@ -267,8 +232,7 @@
           <a href="{% url 'home' %}">
           <img src={% static "assets/images/logo/logo-light.png"%} alt="logo" class="mb-30">
           </a>
-          <p class="color-white">We are experienced professionals who understand that It services is changing, and are
-            true partners who care about your future business success. </p>
+          <p class="color-white">We go over and above to achieved academic excellence.</p>
         </div><!-- /.burger-menu__header -->
         <div class="contact-blocks-wrapper">
           <div class="contact-block contact-block-light">

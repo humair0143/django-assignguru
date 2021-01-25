@@ -3,77 +3,108 @@
 
 {% block contact %}
 
-<section class="page-title page-title-layout1 bg-overlay bg-parallax">
-      <div class="bg-img"><img src={% static "assets/images/page-titles/1.jpg "%} alt="background"></div>
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title page-title-layout7 text-center bg-overlay bg-parallax">
+      <div class="bg-img"><img src={% static "assets/images/page-titles/122.jpg" %} alt="background"></div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
-            <h1 class="pagetitle__heading">Contact Us</h1>
-            <p class="pagetitle__desc">We are experienced professionals who understand that It services is changing, and
-              are true partners who care about your success. Our team provides a consultative approach on emerging
-              technology.
-            </p>
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <h1 class="pagetitle__heading">Contact Us for a free Quote</h1>
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.page-title -->
 
+{% if contact_name %}
 
+<center>
+<h2>Thanks {{ contact_name }}</h2>
+<p> We have received your email and will respond shortly</p>
+</center>
+
+{% else %}
+ 
     <!-- ==========================
         contact layout 1
     =========================== -->
     <section class="contact-layout1">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6">
-            <form class="contact-panel__form" method="post" action={% static "assets/php/contact.php" %} id="contactForm">
+          <div class="col-sm-12 col-md-12 col-lg-6"> 
+            
+            <form class="contact-panel__form" method="post" action="{% url 'contact' %}">
+              {% csrf_token %}
               <div class="row">
+                
                 <div class="col-sm-12">
                   <h4 class="contact-panel__title">Get In Touch</h4>
                 </div>
+                
                 <div class="col-sm-6 col-md-6 col-lg-6">
                   <div class="form-group">
-                    <label for="contact-name">Name (required)</label>
+                    <label for="contact-name">Name</label>
                     <input type="text" class="form-control" placeholder="Name" id="contact-name" name="contact-name"
                       required>
                   </div>
                 </div><!-- /.col-lg-6 -->
+
                 <div class="col-sm-6 col-md-6 col-lg-6">
                   <div class="form-group">
-                    <label for="contact-email">Email (required)</label>
+                    <label for="contact-email">Email</label>
                     <input type="email" class="form-control" placeholder="Email" id="contact-email" name="contact-email"
                       required>
                   </div>
                 </div><!-- /.col-lg-6 -->
+
                 <div class="col-sm-6 col-md-6 col-lg-6">
                   <div class="form-group">
-                    <label for="contact-Phone">Phone (required)</label>
+                    <label for="contact-Phone">Phone</label>
                     <input type="text" class="form-control" placeholder="Phone" id="contact-Phone" name="contact-phone"
                       required>
                   </div>
                 </div><!-- /.col-lg-6 -->
+
                 <div class="col-sm-6 col-md-6 col-lg-6">
-                  <div class="form-group">
-                    <label for="contact-website">Website (optional)</label>
-                    <input type="text" class="form-control" placeholder="Website (optional)" id="contact-website"
-                      name="contact-website">
-                  </div>
-                </div><!-- /.col-lg-6 -->
+                      <div class="form-group">
+                        <label for="contact-Phone">Subject</label>
+                        <select class="form-control" id="contact-subject" name="contact-subject">
+                          <option value="0">Accounting</option>
+                          <option value="1">Finance</option>
+                          <option value="2">Operations</option>
+                          <option value="3">Economics</option>
+                          <option value="4">Economics</option>
+                          <option value="5">Marketing</option>
+                          <option value="6">Business Studies</option>
+                          <option value="7">Computer/IT</option>
+                          <option value="8">Mathematics</option>
+                          <option value="9">Other(s)</option>
+                        </select>
+                      </div>
+                    </div><!-- /.col-lg-6 -->
+
                 <div class="col-sm-12 col-md-12 col-lg-12">
                   <div class="form-group mb-20">
-                    <label for="contact-message">Additional Details (optional)</label>
+                    <label for="contact-message">Additional Details</label>
                     <textarea class="form-control" placeholder="Describe your inquirey!" id="contact-message"
-                      name="contact-message"></textarea>
+                      name="contact-message" required></textarea>
                   </div>
                   <div class="custom-control custom-checkbox d-flex align-items-center  mb-20">
                     <input type="checkbox" class="custom-control-input" id="terms">
                     <label class="custom-control-label" for="terms">I accept the privacy and terms.</label>
                   </div>
                   <button type="submit" class="btn btn__secondary btn__block ">Submit Request</button>
-                  <div class="contact-result"></div>
                 </div><!-- /.col-lg-12 -->
+                
               </div><!-- /.row -->
             </form>
+          
+          
+        
+
+
+
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1">
             <div class="contact-panel__info bg-overlay bg-overlay-primary">
@@ -81,7 +112,7 @@
               <div class="contact-block">
                 <h5 class="contact-block__title">Our Location</h5>
                 <ul class="contact-block__list list-unstyled">
-                  <li>2307 Beverley Rd Brooklyn, New York 11226 United States.</li>
+                  <li>12 Univesity Rd, Waterloo ON Canada</li>
                 </ul>
               </div><!-- /.contact-panel__info__block -->
               <div class="contact-block">
@@ -94,11 +125,11 @@
               <div class="contact-block">
                 <h5 class="contact-block__title">Opening Hours</h5>
                 <ul class="contact-block__list list-unstyled">
-                  <li>Monday - Friday</li>
-                  <li>09:00 AM - 06:00 PM</li>
+                  <li>Monday - Sunday</li>
+                  <li>24 - 7 / 365</li>
                 </ul>
               </div><!-- /.contact-panel__info__block -->
-              <a href="contacs.html" class="btn btn__white btn__bordered btn__icon btn__xl">
+              <a href="{% url 'contact' %}" class="btn btn__white btn__bordered btn__icon btn__xl">
                 <span>Find Your Solution</span>
                 <i class="icon-arrow-right"></i>
               </a>
@@ -107,5 +138,7 @@
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.contact layout 1 -->
+
+{% endif %}
 
 {% endblock contact %}

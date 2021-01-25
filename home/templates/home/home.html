@@ -15,7 +15,7 @@
                 <div class="slide-item__content">
                   <h2 class="slide-item__title">One Stop for ALL your academic Help</h2>
                   <p class="slide-item__desc">By Experienced professionals.</p>
-                  <a href="projects-grid.html" class="btn btn__primary btn__hi">Get Started</a>
+                  <a href="{% url 'contact' %}" class="btn btn__primary btn__hi">Get Started</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->
@@ -27,10 +27,9 @@
             <div class="row align-items-center">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <div class="slide-item__content">
-                  <h2 class="slide-item__title">Safe Business <br> To Ensure High Availability.</h2>
-                  <p class="slide-item__desc">We are experienced professionals who understand that It services is
-                    changing, and are true partners who care about your success.</p>
-                  <a href="request-quote.html" class="btn btn__primary btn__primary-style2 btn__hi">Get Started</a>
+                  <h2 class="slide-item__title">Our guarantees<br> To Deliver Exceptional Results.</h2>
+                  <p class="slide-item__desc">By Experienced professionals.</p>
+                  <a href="{% url 'contact' %}" class="btn btn__primary btn__primary-style2 btn__hi">Get Started</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
               </div><!-- /.col-xl-5 -->
@@ -50,34 +49,30 @@
             <div class="row features-wrapper">
               <!-- Feature item #1 -->
               <div class="col-sm-4 feature-item">
-                <h4 class="feature-item__title">Software Asset</h4>
-                <p class="feature-item__desc">All aspects of your software assets including purchasing, deployment &
-                  maintenance.</p>
-                <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                <h4 class="feature-item__title">Assignments</h4>
+                <p class="feature-item__desc">We can help you with your assignments and project</p>
+                <a href="{% url 'contact' %}"><i class="icon-arrow-right icon-outlined"></i></a>
               </div><!-- /.feature-item -->
               <!-- Feature item #2 -->
               <div class="col-sm-4 feature-item">
-                <h4 class="feature-item__title">Enterprise Service</h4>
-                <p class="feature-item__desc">AExtend proven Tech best practices to HR, finance, and other service
-                  delivery areas.</p>
-                <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                <h4 class="feature-item__title">Exams</h4>
+                <p class="feature-item__desc">We can take your test, quiz, mid term and finals for you.</p>
+                <a href="{% url 'contact' %}"><i class="icon-arrow-right icon-outlined"></i></a>
               </div><!-- /.feature-item -->
               <!-- Feature item #3 -->
               <div class="col-sm-4 feature-item">
-                <h4 class="feature-item__title">Custom Request</h4>
-                <p class="feature-item__desc">ABuild dynamic request templates with associated workflows, and tasks.</p>
-                <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                <h4 class="feature-item__title">Full Course</h4>
+                <p class="feature-item__desc">Schedule us in advance for garunteed availablity throughout the course duration.</p>
+                <a href="{% url 'contact' %}"><i class="icon-arrow-right icon-outlined"></i></a>
               </div><!-- /.feature-item -->
             </div><!-- /.row -->
           </div><!-- /.col-lg-8 -->
           <div class="col-sm-12 col-md-12 col-lg-4">
             <div class="feature-item feature-item-custom bg-primary">
               <div class="bg-img"><img src={% static "assets/images/backgrounds/14.png" %} alt="backgrounds"></div>
-              <h4 class="feature-item__title">Thinking insights, verified driven research, and metrics data help you
-                make the right decisions!
-              </h4>
-              <a href="it-solutions.html" class="btn btn__white btn__link">
-                <span>Find Your Solution</span><i class="icon-arrow-right icon-outlined"></i>
+              <h4 class="feature-item__title">We go above and beyound to help you acheive the desired academic results.</h4>
+              <a href="{% url 'contact' %}" class="btn btn__white btn__link">
+                <span>Contact Us</span><i class="icon-arrow-right icon-outlined"></i>
               </a>
             </div>
           </div><!-- /.col-lg-4 -->
@@ -95,13 +90,19 @@
             <h2 class="heading__subtitle color-body">Nationwide Service, Local Expertise</h2>
           </div><!-- /.col-lg-12 -->
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-            <h3 class="heading__title mb-30">Keep your business safe & ensure high availability.</h3>
+            <h3 class="heading__title mb-30">You ask us, “Do my homework online,” we offer assignment help with guarantees!</h3>
+            <p class="service-item__desc">AssignGuru's team provides a global online platform for custom assignment writing. Our website is especially popular among students with “do my assignment online” and “write my assignment for me” requests who are ready to pay in order to get the online homework help they need. With us, you’ve found a website that you can entrust your “Please, help with my assignment” requests to. And we’ll do our best to compose your assignments at the highest possible level..</p>
+            <p class="service-item__desc">AssignGuru guarantees properly formatted, well-researched, and plagiarism-free custom assignment papers delivered to clients within the agreed-upon timeframe. Free revisions are also included in the package when you use our services.</p>
+            <br/><br/><br/>
+            
+            <a href="about-us.html" class="btn btn__primary btn__icon btn__xl">
+                <span>More About Us</span><i class="icon-arrow-right"></i>
+            </a>
           </div><!-- /.col-xl-5 -->
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5 about__Text">
-            <p>Improve efficiency, leverage tech, and provide better customer experiences with the modern technology
-              services available allover the world. Our skilled personnel, utilising the latest processing software,
-              combined with decades of experience.</p>
-            <img src={% static "assets/images/about/singnture.png" %} alt="singnture" class="mb-20">
+            <p class="service-item__desc">AssignGuru's team provides a global online platform for custom assignment writing. Our website is especially popular among students with “do my assignment online” and “write my assignment for me” requests who are ready to pay in order to get the online homework help they need. With us, you’ve found a website that you can entrust your “Please, help with my assignment” requests to. And we’ll do our best to compose your assignments at the highest possible level..</p>
+            <p class="service-item__desc">Our company is customer-friendly and open to communication. Thus, we provide free updates through email, phone contact, and direct messaging. Additionally, on our website we are available for online communication 24/7 via Livechat, phone, and email. Our customer support team is able to assist you whenever you need it.</p>
+            <p class="service-item__desc">Furthermore, you can view our standard price list before submitting your order. Keep in mind that the price of your assignments depends on the type of paper needed as well as on your discipline, academic level, the number of pages, and the deadline.</p>
           </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -110,18 +111,8 @@
           <div class="row align-items-end">
             <div class="col-sm-12 col-md-12 col-lg-7">
               <div class="about__img">
-                <img src={% static "assets/images/about/4.jpg" %} alt="about">
+
               </div><!-- /.about-img -->
-            </div><!-- /.col-lg-5 -->
-            <div class="col-sm-12 col-md-12 col-lg-5">
-              <ul class="list-items list-unstyled mb-30">
-                <li> Delivered in more than 450,000 client’s interactions</li>
-                <li> Provided by experts to help challenge critical activities</li>
-                <li> Complemented with peer perspectives and advice</li>
-              </ul>
-              <a href="about-us.html" class="btn btn__primary btn__icon btn__xl">
-                <span>More About Us</span><i class="icon-arrow-right"></i>
-              </a>
             </div><!-- /.col-lg-5 -->
           </div><!-- /.row -->
         </div><!-- /.container -->
@@ -137,10 +128,8 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading heading-layout2 text-center mb-50">
-              <h2 class="heading__subtitle">Nationwide Service, Local Expertise</h2>
-              <h3 class="heading__title">Our technology allows you to offer the latest software to your possible
-                customers!
-              </h3>
+              <h2 class="heading__subtitle">AssignGuru's primary mission is to provide academic writing guidance for money to all students worldwide, in compliance with our standards.</h2>
+              <h3 class="heading__title">Write my assignment: The guarantees clients get from us</h3>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
@@ -152,13 +141,8 @@
                 <div class="service-item__icon">
                   <i class="icon-server"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">IT Management <br> Services</h4>
-                <p class="service-item__desc">IT management service that manages and oversees the IT infrastructure of
-                  organization responsible for network and operations which includes data communication.</p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Growth</h4>
+                <p class="service-item__desc">We are incredibly interested in your cultivation as new specialists in your chosen spheres, which is why we offer you high-quality writing services. We want our customers to face no difficulties in dealing with academic writing, just like the real specialists in their fields, and for that reason, we encourage you to grow under the supervision of real professionals.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/1.jpg" %} alt="background"></div>
@@ -172,13 +156,8 @@
                 <div class="service-item__icon">
                   <i class="icon-cloud"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">Cyber Security<br> Services</h4>
-                <p class="service-item__desc">Drive your business and manage risk with a global industry leader in
-                  cybersecurity, cloud, and managed security services and extend your team with leading experts.</p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Diversity</h4>
+                <p class="service-item__desc">Our writing team is quite diverse, as we hire specialists from all around the world. This helps us to find the future author of your essay as quickly as possible. While you’re sleeping in Singapore, a writer from New York will be working on your order. Additionally, their different academic backgrounds allow us to provide help in various disciplines - from humanities to math, science, and engineering.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/2.jpg" %} alt="background"></div>
@@ -192,14 +171,8 @@
                 <div class="service-item__icon">
                   <i class="icon-hosting"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">Cloud Computing<br> Services</h4>
-                <p class="service-item__desc">Cloud computing is the on-demand availability of computer system
-                  resources, especially data storage and computing power, without direct active management by the user.
-                </p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Excellence</h4>
+                <p class="service-item__desc">All our specialists are highly competent in what they do: writing essays, conducting thorough research, and/or doing complex calculations. We are deeply convinced that all our customers deserve to become paragons of excellence in both their studies and, further down the line, in their professional lives, and eagerly help them to do just that.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/3.jpg" %} alt="background"></div>
@@ -213,14 +186,8 @@
                 <div class="service-item__icon">
                   <i class="icon-technician"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">IT Consulting <br> Services</h4>
-                <p class="service-item__desc">Trying to solve all your IT challenges internally can become costly and a
-                  major distraction, Leveraging knowledgeable IT consulting firms like ushelps your business remain
-                  secure.</p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Authenticity</h4>
+                <p class="service-item__desc">We present ourselves as a custom writing company. This means that our papers are always crafted from scratch and according to your specific requirements. Moreover, we use plagiarism software to ensure the 100% originality of every paper we submit. Become more original with the help of our qualified specialists.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/4.jpg" %} alt="background"></div>
@@ -234,13 +201,8 @@
                 <div class="service-item__icon">
                   <i class="icon-programming"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">Software Dev<br> Services</h4>
-                <p class="service-item__desc">With shorter product cycles, rapid innovation, and mergers contributing to
-                  constant change, you are faced with making business decisions every day to advance your mission.</p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Reliability</h4>
+                <p class="service-item__desc">We do everything we can to ensure our customers get their assignments written on time and done in the appropriate way. The great number of returning customers proves the fact that our writing company is worth your attention as well. It is best to only rely on verified services like ours.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/5.jpg" %} alt="background"></div>
@@ -254,13 +216,8 @@
                 <div class="service-item__icon">
                   <i class="icon-file"></i>
                 </div><!-- /.service-item__icon -->
-                <h4 class="service-item__title">Backup & Recovery<br> Services</h4>
-                <p class="service-item__desc">While you can’t predict unexpected events, we’ll ensure the right
-                  precautions are in place to minimize downtime and keep you moving in the right direction.</p>
-                <a href="it-solutions-single.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
+                <h4 class="service-item__title">Expertise</h4>
+                <p class="service-item__desc">We have qualified professionals who excel in their career to help you out with your Exams.</p>
               </div><!-- /.service-content -->
               <div class="service-item__overlay bg-overlay bg-overlay-primary">
                 <div class="bg-img"><img src={% static "assets/images/services/6.jpg" %} alt="background"></div>
@@ -270,14 +227,11 @@
         </div><!-- /.row -->
         <div class="row align-items-center">
           <div class="col-sm-12 col-md-12 col-lg-5">
-            <p class="fz-16 my-4">Trusted by the world's best organizations, for 15 years and running, it has been
-              delivering
-              smiles to hundreds of IT advisors, developers, users, and business owners.
-            </p>
+            <p class="fz-16 my-4">Each of our team members holds these values and meets these same standards of excellence. To work at our custom assignment writing platform, academic writers, experts in narrow disciplines, and support team members must pass special entry tests and periodically pass check-ups to maintain their positions.</p>
           </div><!-- /.col-lg-5 -->
           <div class="col-sm-12 col-md-12 col-lg-7 d-flex align-items-center justify-content-end">
-            <a href="it-solutions-single.html" class="btn btn__secondary btn__hi mr-30">Find Your Solution</a>
-            <a href="industries.html" class="btn btn__primary btn__link">
+            <a href="{% url 'contact' %}" class="btn btn__secondary btn__hi mr-30">Find a Guru</a>
+            <a href="{% url 'services' %}" class="btn btn__primary btn__link">
               <span>Explore All Services</span><i class="icon-arrow-right icon-outlined"></i>
             </a>
           </div><!-- /.col-lg-7 -->
@@ -295,10 +249,9 @@
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
             <div class="heading heading-layout2 mb-40">
               <h2 class="heading__subtitle color-body">Ensure High Availability of Your Services</h2>
-              <h3 class="heading__title color-white">Easy solutions for all difficult IT problems, keep business safe &
-                ensure high availability.</h3>
+              <h3 class="heading__title color-white">Freebies you receive with every order</h3>
             </div>
-            <a href="contact-us.html" class="btn btn__white btn__bordered btn__xl btn__icon minwidth-170">
+            <a href="{% url 'contact' %}" class="btn btn__white btn__bordered btn__xl btn__icon minwidth-170">
               <span>Get Started</span>
               <i class="icon-arrow-right"></i>
             </a>
@@ -311,8 +264,7 @@
                   <i class="icon-statistic"></i>
                 </div>
                 <div class="d-flex align-items-center justify-content-between">
-                  <h4 class="feature-item__title mb-0">Software Asset Management</h4>
-                  <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                  <h4 class="feature-item__title mb-0">Consistent communication with your writer</h4>
                 </div>
               </div><!-- /.feature-item -->
               <!-- Feature item #2 -->
@@ -321,8 +273,7 @@
                   <i class="icon-management"></i>
                 </div>
                 <div class="d-flex align-items-center justify-content-between">
-                  <h4 class="feature-item__title mb-0">Privileged Access Management</h4>
-                  <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                  <h4 class="feature-item__title mb-0">Formatting in any academic style</h4>
                 </div>
               </div><!-- /.feature-item -->
               <!-- Feature item #3 -->
@@ -331,8 +282,7 @@
                   <i class="icon-software"></i>
                 </div>
                 <div class="d-flex align-items-center justify-content-between">
-                  <h4 class="feature-item__title mb-0">Software License Management</h4>
-                  <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                  <h4 class="feature-item__title mb-0">Bibliography section with reliable sources</h4>
                 </div>
               </div><!-- /.feature-item -->
               <!-- Feature item #4 -->
@@ -341,19 +291,17 @@
                   <i class="icon-relational"></i>
                 </div>
                 <div class="d-flex align-items-center justify-content-between">
-                  <h4 class="feature-item__title mb-0">Enterprise Service Management</h4>
-                  <a href="#"><i class="icon-arrow-right icon-outlined"></i></a>
+                  <h4 class="feature-item__title mb-0">24/7 WOW-support team</h4>
                 </div>
               </div><!-- /.feature-item -->
             </div><!-- /.row -->
             <div class="row mt-50 contact-text">
               <div class="col-sm-9 px-0">
-                <strong class="color-white">If you have any questions or need help, feel free to contact with our team,
-                  or call
-                  <a href="#">(002) 01061245741</a></strong>
+                <strong class="color-white">If you have any questions or need help, feel free to contact with our team, or call
+                  <a href="tel:+923324394878">(+92) 3324394878</a></strong>
               </div><!-- /.col-sm-9 -->
               <div class="col-sm-3 px-0 d-flex justify-content-end">
-                <a href="contact-us.html" class="btn btn__primary btn__primary-style2 minwidth-120">Contact Us</a>
+                <a href="{% url 'contact' %}" class="btn btn__primary btn__primary-style2 minwidth-120">Contact Us</a>
               </div><!-- /.col-sm-3 -->
             </div><!-- /.row -->
           </div><!-- /.col-lg-6 -->
@@ -375,461 +323,85 @@
                   class="contact-panel__banner bg-overlay bg-overlay-primary d-flex flex-column justify-content-between">
                   <div class="bg-img"><img src={% static "assets/images/banners/6.jpg" %} alt="background"></div>
                   <div class="heading heading-layout2 heading-light">
-                    <h3 class="heading__title mb-30">Perfect Solutions For Your Business!</h3>
-                    <p class="heading__desc mb-30">Mintech has been helping organizations throughout the World to manage
-                      their
-                      IT with our unique approach to technology management and consultancy solutions. </p>
+                    <h3 class="heading__title mb-30">Perfect Solutions For Your Academics!</h3>
+                    <p class="heading__desc mb-30">We have been helping students for more than 5 years now.</p>
                     <ul class="list-items list-items-light list-unstyled mb-40">
-                      <li>Provided by experts to help challenge activities</li>
-                      <li>Complemented with peer perspectives and advice</li>
-                      <li>More than 450,000 client’s interactions </li>
+                      <li>Provided by subjec expert</li>
+                      <li>All academic work completed with car</li>
+                      <li>Helped more than 2,500 students</li>
                     </ul>
                   </div><!-- /.heading -->
                   <div class="d-flex flex-wrap">
-                    <a href="request-quote.html" class="btn btn__secondary btn__secondary-style2 mr-30">
-                      Request A Demo</a>
-                    <a href="industries.html" class="btn btn__white btn__bordered btn__icon">
-                      <span>Get Started</span><i class="icon-arrow-right"></i>
+                    <a href="{% url 'process' %}" class="btn btn__secondary btn__secondary-style2 mr-30">
+                      Our Process</a>
+                    <a href="{% url 'services' %}" class="btn btn__white btn__bordered btn__icon">
+                      <span>Our Services</span><i class="icon-arrow-right"></i>
                     </a>
                   </div>
                 </div><!-- /.contact-panel__banner -->
-                <form class="contact-panel__form" method="post" action="assets/php/contact.php" id="contactForm">
+                
+                
+                <form class="contact-panel__form" method="post" action="{% url 'contact' %}">
+                {% csrf_token %}
                   <div class="row">
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="form-group">
-                        <label for="contact-name">Name (required)</label>
-                        <input type="text" class="form-control" placeholder="Name" id="contact-name" name="contact-name"
-                          required>
+                        <label for="contact-name">Name</label>
+                        <input type="text" class="form-control" placeholder="Name" id="contact-name" name="contact-name" required>
                       </div>
                     </div><!-- /.col-lg-6 -->
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="form-group">
-                        <label for="contact-email">Email (required)</label>
-                        <input type="email" class="form-control" placeholder="Email" id="contact-email"
-                          name="contact-email" required>
+                        <label for="contact-email">Email</label>
+                        <input type="email" class="form-control" placeholder="Email" id="contact-email" name="contact-email" required>
                       </div>
                     </div><!-- /.col-lg-6 -->
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="form-group">
-                        <label for="contact-Phone">Inquiry (required)</label>
-                        <select class="form-control">
-                          <option value="0">IT Management Services</option>
-                          <option value="1">IT Management Services 2</option>
-                          <option value="2">IT Management Services 3</option>
+                        <label for="contact-Phone">Subject</label>
+                        <select class="form-control" id="contact-subject" name="contact-subject">
+                          <option value="Accounting">Accounting</option>
+                          <option value="Finance">Finance</option>
+                          <option value="Operations">Operations</option>
+                          <option value="Economics">Economics</option>
+                          <option value="Statistics">Statistics</option>
+                          <option value="Marketing">Marketing</option>
+                          <option value="Business Studies">Business Studies</option>
+                          <option value="Computer/IT">Computer/IT</option>
+                          <option value="Mathematics">Mathematics</option>
+                          <option value="Other(s)">Other(s)</option>
                         </select>
                       </div>
                     </div><!-- /.col-lg-6 -->
                     <div class="col-sm-6 col-md-6 col-lg-6">
                       <div class="form-group">
-                        <label for="contact-Phone">Phone (Optional)</label>
-                        <input type="text" class="form-control" placeholder="Phone" id="contact-Phone"
-                          name="contact-phone">
+                        <label for="contact-Phone">Phone</label>
+                        <input type="text" class="form-control" placeholder="Phone" id="contact-Phone" name="contact-phone" required>
                       </div>
                     </div><!-- /.col-lg-6 -->
                     <div class="col-sm-12 col-md-12 col-lg-12">
                       <div class="form-group">
-                        <label for="contact-message">Additional Details (optional)</label>
-                        <textarea class="form-control" placeholder="Describe your inquirey!" id="contact-message"
-                          name="contact-message"></textarea>
+                        <label for="contact-message">Additional Details</label>
+                        <textarea class="form-control" placeholder="Describe your inquirey!" id="contact-message" name="contact-message" required></textarea>
                       </div>
                       <div class="custom-control custom-checkbox d-flex align-items-center mb-20">
                         <input type="checkbox" class="custom-control-input" id="terms">
                         <label class="custom-control-label" for="terms">I accept the privacy and terms.</label>
                       </div>
                       <button type="submit" class="btn btn__secondary btn__xl btn__block">Submit Request </button>
-                      <div class="contact-result"></div>
+
                     </div><!-- /.col-lg-12 -->
+
                   </div><!-- /.row -->
                 </form><!-- /.contact-panel__form -->
+
+
               </div><!-- /.contact-panel -->
             </div><!-- /.col-lg-12 -->
           </div><!-- /.row -->
         </div><!-- /.container -->
       </section><!-- /.Contact layout 2 -->
 
-      <!-- ========================= 
-      Testimonials layout 1
-      =========================  -->
-      <section id="testimonials" class="testimonials testimonials-layout1 text-center pt-0">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-12">
-              <div class="heading">
-                <h3 class="heading__title mb-0">1500 Satisfied Users Over The Globe</h3>
-              </div><!-- /.heading -->
-            </div><!-- /.col-lg-6 -->
-          </div><!-- /.row -->
-          <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-12">
-              <div class="testimonials-wrapper">
-                <div class="slider-with-navs">
-                  <!-- Testimonial #1 -->
-                  <div class="testimonial-item">
-                    <p class="testimonial-item__desc">If you’re looking for a rewarding career and the chance to make an
-                      impact, you’ve come to the right place. We will transform your business through our techniques!
-                    </p>
-                    <div class="testimonial-item__meta">
-                      <h4 class="testimonial-item__meta__title">John Peter</h4>
-                      <p class="testimonial-item__meta__desc">7oroof Inc</p>
-                    </div><!-- /.testimonial-meta -->
-                  </div><!-- /. testimonial-item -->
-                  <!-- Testimonial #2 -->
-                  <div class="testimonial-item">
-                    <p class="testimonial-item__desc">My project was a simple & small task, but the persistence and
-                      determination turned it into an awesome and great project which make me happy.
-                    </p>
-                    <div class="testimonial-item__meta">
-                      <h4 class="testimonial-item__meta__title">Ahmed Abdallah</h4>
-                      <p class="testimonial-item__meta__desc">Web Inc</p>
-                    </div><!-- /.testimonial-meta -->
-                  </div><!-- /. testimonial-item -->
-                  <!-- Testimonial #3 -->
-                  <div class="testimonial-item">
-                    <p class="testimonial-item__desc">If you’re looking for a rewarding career and the chance to make an
-                      impact, you’ve come to the right place. We will transform your business through our techniques!
-                    </p>
-                    <div class="testimonial-item__meta">
-                      <h4 class="testimonial-item__meta__title">Ayman</h4>
-                      <p class="testimonial-item__meta__desc">7oroof Inc</p>
-                    </div><!-- /.testimonial-meta -->
-                  </div><!-- /. testimonial-item -->
-                  <!-- Testimonial #2 -->
-                  <div class="testimonial-item">
-                    <p class="testimonial-item__desc">My project was a simple & small task, but the persistence and
-                      determination turned it into an awesome and great project which make me happy.
-                    </p>
-                    <div class="testimonial-item__meta">
-                      <h4 class="testimonial-item__meta__title">John Peter</h4>
-                      <p class="testimonial-item__meta__desc">7oroof Inc</p>
-                    </div><!-- /.testimonial-meta -->
-                  </div><!-- /. testimonial-item -->
-                  <!-- Testimonial #3 -->
-                  <div class="testimonial-item">
-                    <p class="testimonial-item__desc">My project was a simple & small task, but the persistence and
-                      determination turned it into an awesome and great project which make me happy .
-                    </p>
-                    <div class="testimonial-item__meta">
-                      <h4 class="testimonial-item__meta__title">John Peter</h4>
-                      <p class="testimonial-item__meta__desc">7oroof Inc</p>
-                    </div><!-- /.testimonial-meta -->
-                  </div><!-- /. testimonial-item -->
-                </div>
-                <div class="slider-nav">
-                  <div class="testimonial-item__thumb">
-                    <img src={% static "assets/images/testimonials/thumbs/1.png" %} alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div class="testimonial-item__thumb">
-                    <img src={% static "assets/images/testimonials/thumbs/2.png" %} alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div class="testimonial-item__thumb">
-                    <img src={% static "assets/images/testimonials/thumbs/3.png" %} alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div class="testimonial-item__thumb">
-                    <img src={% static "assets/images/testimonials/thumbs/2.png" %} alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div class="testimonial-item__thumb">
-                    <img src={% static "assets/images/testimonials/thumbs/3.png" %} alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                </div><!-- /.slcik-nav -->
-              </div>
-            </div><!-- /.col-lg-12 -->
-          </div><!-- /.row -->
-        </div><!-- /.container -->
-      </section><!-- /.testimonials 1 -->
-
-    </div>
-
-    <!-- =========================== 
-      portfolio grid 
-    ============================= -->
-    <section class="portfolio-grid pb-60">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-50">
-              <h2 class="heading__subtitle color-body">Latest Case Studies</h2>
-              <h3 class="heading__title">Success Stories</h3>
-            </div><!-- /.heading -->
-          </div><!-- /.col-lg-8 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <!-- portfolio item #1 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="portfolio-item">
-              <div class="portfolio-item__img">
-                <img src={% static "assets/images/portfolio/grid/1.jpg" %} alt="portfolio img">
-              </div><!-- /.portfolio-img -->
-              <div class="portfolio-item__content">
-                <div class="portfolio-item__cat">
-                  <a href="#">Building</a><a href="#">Interior</a>
-                </div><!-- /.portfolio-cat -->
-                <h4 class="portfolio-item__title"><a href="#">Financial’s Need For
-                    Strategic Advisor</a></h4>
-                <p class="portfolio-item__desc">We delivered solutions at every step, and moved seamlessly into a more
-                  proactive role as a strategic advisor, providing support and guidance across all IT topics.</p>
-                <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.portfolio-content -->
-            </div><!-- /.portfolio-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- portfolio item #2 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="portfolio-item">
-              <div class="portfolio-item__img">
-                <img src={% static "assets/images/portfolio/grid/2.jpg" %} alt="portfolio img">
-              </div><!-- /.portfolio-img -->
-              <div class="portfolio-item__content">
-                <div class="portfolio-item__cat">
-                  <a href="#">Software</a><a href="#">Support</a>
-                </div><!-- /.portfolio-cat -->
-                <h4 class="portfolio-item__title"><a href="#">24x7 System Monitoring and
-                    Alert Response</a></h4>
-                <p class="portfolio-item__desc">This single, unified platform integrates all operational phases of
-                  selling and activation of their wireless services and devices, and serves as the backbone of the
-                  operations.</p>
-                <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.portfolio-content -->
-            </div><!-- /.portfolio-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- portfolio item #3 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="portfolio-item">
-              <div class="portfolio-item__img">
-                <img src={% static "assets/images/portfolio/grid/3.jpg" %} alt="portfolio img">
-              </div><!-- /.portfolio-img -->
-              <div class="portfolio-item__content">
-                <div class="portfolio-item__cat">
-                  <a href="#">Management</a><a href="#">Cloud</a>
-                </div><!-- /.portfolio-cat -->
-                <h4 class="portfolio-item__title"><a href="#">Nonprofit Organization
-                    Utilized Security</a></h4>
-                <p class="portfolio-item__desc">Servers going down on a weekly basis had become the organization’s
-                  “normal.” We came on board with the objective of stabilizing the environment, assisting complete.</p>
-                <a href="case-studies-single.html" class="btn btn__secondary btn__bordered">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.portfolio-content -->
-            </div><!-- /.portfolio-item -->
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.portfolio grid -->
-    <!-- =====================
-           Clients
-    ======================== -->
-    <section class="clients border-top pt-50 pb-50">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <div class="slick-carousel"
-              data-slick='{"slidesToShow": 6, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 4}}, {"breakpoint": 767, "settings": {"slidesToShow": 3}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
-              <div class="client">
-                <img src={% static "assets/images/clients/1.png" %} alt="client">
-                <img src={% static "assets/images/clients/1.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/2.png" %} alt="client">
-                <img src={% static "assets/images/clients/2.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/3.png" %} alt="client">
-                <img src={% static "assets/images/clients/3.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/4.png" %} alt="client">
-                <img src={% static "assets/images/clients/4.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/5.png" %} alt="client">
-                <img src={% static "assets/images/clients/5.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/6.png" %} alt="client">
-                <img src={% static "assets/images/clients/6.png" %} alt="client">
-              </div><!-- /.client -->
-              <div class="client">
-                <img src={% static "assets/images/clients/7.png" %} alt="client">
-                <img src={% static "assets/images/clients/7.png" %} alt="client">
-              </div><!-- /.client -->
-            </div><!-- /.carousel -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.clients -->
-
-    <!-- =========================
-       Banner layout 2
-      =========================== -->
-    <section class="banner-layout2 pt-0 pb-100">
-      <div class="bg-img"><img src={% static "assets/images/backgrounds/8.jpg" %} alt="background"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
-            <div class="banner-text">
-              <div class="heading-layout2 heading-light mb-40">
-                <h3 class="heading__title mb-30">Timely service delivery & incident resolutions!!</h3>
-                <p class="heading__desc">Provide users with appropriate view and access permissions to requests,
-                  problems, changes, contracts, assets, solutions, and reports with our experienced professionals.
-                </p>
-              </div><!-- /.heading -->
-              <a href="pricing.html" class="btn btn__white btn__bordered btn__hi mb-30">Pricing & Plans</a>
-            </div>
-          </div><!-- /.col-xl-6 -->
-          <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-            <div class="banner-img">
-              <img src={% static "assets/images/banners/5.jpg" %} alt="banner">
-              <a class="video__btn video__btn-white popup-video" href="https://www.youtube.com/watch?v=nrJtHemSPW4">
-                <div class="video__player">
-                  <span class="video__player-animation"></span>
-                  <span class="video__player-animation video__player-animation-2"></span>
-                  <i class="fa fa-play"></i>
-                </div>
-              </a>
-            </div>
-          </div><!-- /.col-xl-6 -->
-        </div><!-- /.row -->
-        <div class="row counters-wrapper counters-light mt-70">
-          <!-- counter item #1 -->
-          <div class="col-6 col-sm-6 col-md-3 col-lg-3">
-            <div class="counter-item">
-              <h4 class="counter">6,154</h4>
-              <p class="counter-item__desc">Projects And Software Developed in 2021</p>
-            </div><!-- /.counter-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- counter item #2 -->
-          <div class="col-6 col-sm-6 col-md-3 col-lg-3">
-            <div class="counter-item">
-              <h4 class="counter">2,512</h4>
-              <p class="counter-item__desc">Qualified Employees And Developers With Us</p>
-            </div><!-- /.counter-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- counter item #3 -->
-          <div class="col-6 col-sm-6 col-md-3 col-lg-3">
-            <div class="counter-item">
-              <h4 class="counter">1,784</h4>
-              <p class="counter-item__desc">Satisfied Clients We Have Served Globally</p>
-            </div><!-- /.counter-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- counter item #4 -->
-          <div class="col-6 col-sm-6 col-md-3 col-lg-3">
-            <div class="counter-item">
-              <h4 class="counter">0,25</h4>
-              <p class="counter-item__desc">Years Of Experience In The IT & Software Industry</p>
-            </div><!-- /.counter-item -->
-          </div><!-- /.col-lg-3 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.Banner layout 2 -->
-
-    <!-- ======================
-      Blog Grid
-    ========================= -->
-    <section class="blog-grid pb-50">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-40">
-              <h2 class="heading__subtitle">Recent Articles</h2>
-              <h3 class="heading__title">Resource Library</h3>
-            </div><!-- /.heading -->
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <!-- Blog Item #1 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src={% static "assets/images/blog/grid/1.jpg" %} alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Consulting</a><a href="#">Sales</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">May 13, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">Five Ways to Develop a World Class Sales Operations
-                    Function</a>
-                </h4>
-                <p class="post-item__desc">Outsourcing IT infrastructure is a concept that has been around for a while.
-                  Characterized in terms of technicians and engineers, workstations and servers, the idea of outsourcing
-                  your basic IT needs...
-                </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #2 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src={% static "assets/images/blog/grid/2.jpg" %} alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Tech</a><a href="#">Communications</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">April 17, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">Succession Risks That Threaten Your Leadership Strategy</a>
-                </h4>
-                <p class="post-item__desc">Today’s organizations need a quality bench of leaders to drive business
-                  outcomes and satisfy employees, customers and investors who now demand more transparency and
-                  accountability...
-                </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #3 -->
-          <div class="col-sm-12 col-md-4 col-lg-4">
-            <div class="post-item">
-              <div class="post-item__img">
-                <a href="blog-single-post.html">
-                  <img src={% static "assets/images/blog/grid/3.jpg" %} alt="blog image">
-                </a>
-              </div><!-- /.blog-img -->
-              <div class="post-item__content">
-                <div class="post-item__meta d-flex flex-wrap">
-                  <div class="post-item__meta__cat">
-                    <a href="#">Digital Business</a><a href="#">Cloud</a>
-                  </div><!-- /.blog-meta-cat -->
-                  <span class="post-item__meta__date">March 20, 2020</span>
-                </div>
-                <h4 class="post-item__title"><a href="#">What Do Employee Engagement Surveys Tell You About
-                    Employee?</a>
-                </h4>
-                <p class="post-item__desc">Outsourcing IT infrastructure is a concept that has been around for a while.
-                  Characterized in terms of technicians and engineers, workstations and servers, the idea of outsourcing
-                  your basic IT needs...
-                </p>
-                <a href="blog-single-post.html" class="btn btn__secondary btn__link">
-                  <span>Read More</span>
-                  <i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.blog-content -->
-            </div><!-- /.post-item -->
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.blog Grid -->
 
 {% endblock home %}
 

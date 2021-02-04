@@ -36,7 +36,6 @@ ALLOWED_HOSTS = [
 # Application definition
 
 INSTALLED_APPS = [
-    'home',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -45,7 +44,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'django.contrib.sitemaps',
+    'home',
+    'upload',
+    'import_export',
 ]
+
+IMPORT_EXPORT_USE_TRANSACTIONS = True
 
 SITE_ID = 1
 

@@ -3360,7 +3360,7 @@ input[type=radio] {
   .navbar-actions {
     position: absolute;
     top: 50%;
-    right: 50px;
+    right: 100px;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
   }

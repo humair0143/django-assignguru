@@ -1,0 +1,44 @@
+{% extends 'home/base.html' %}
+{% load static %}
+{% block search %}
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title page-title-layout7 text-center bg-overlay bg-parallax">
+      <div class="bg-img"><img src={% static "assets/images/page-titles/7.jpg" %} alt="background"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <h1 class="pagetitle__heading">Search</h1>
+          </div><!-- /.col-xl-6 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.page-title -->
+
+    <!-- ========================= 
+         Reviews
+    =========================  -->
+    <section class="careers">
+      <div class="container">
+       
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+
+            {% for a in allSets %}
+            <div class="job-item">
+              <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                  <h4 class="job-item__title"><a href="mcqs/{{ a.subjectName_id }}/{{ a.id }}">{{ a.name }}</a></h4>
+                </div><!-- /.col-lg-4 -->
+              </div><!-- /.row -->
+            </div><!-- /.job-item --> 
+            {% endfor %}
+
+          </div><!-- /.col-lg-12 -->
+        </div><!-- /.row -->
+
+      </div><!-- /.container -->
+    </section><!-- /.careers -->
+    
+{% endblock search %}

@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-df = pd.read_excel(r'C:\Users\hn_01\OneDrive\Desktop\CS50 Course\assignguru\Quizlet_doc_num.xlsx')
+df = pd.read_excel(r'C:\Users\hn_01\OneDrive\Desktop\django-assignguru\Quizlet_doc_num.xlsx')
 arr1 = []
 arr2 = []
 
@@ -36,4 +36,4 @@ for x in range(len(arr1)):
 
 allcol =[col1, col2, col3, col4, col5]
 df = pd.DataFrame(allcol).T
-df.to_excel(excel_writer = r"C:\Users\hn_01\OneDrive\Desktop\CS50 Course\assignguru\demo.xlsx")
+df.to_excel(excel_writer = r"C:\Users\hn_01\OneDrive\Desktop\django-assignguru\demo.xlsx")

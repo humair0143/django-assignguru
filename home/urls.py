@@ -2,15 +2,7 @@ from django.urls import path
 from . import views
 
 from home.models import Subject, Set
-from home.sitemaps import SubjectSitemap, SetSitemap, QuestionSitemap
 
-from django.contrib.sitemaps.views import sitemap
-
-sitemaps = {
-    'subject': SubjectSitemap,
-    'set': SetSitemap,
-    'question': QuestionSitemap,
-}
 
 urlpatterns = [
     path("", views.home, name="home"),
@@ -23,5 +15,7 @@ urlpatterns = [
     path("mcqs/<int:entry>", views.sets, name="sets"),
     path("mcqs/<int:entry>/<int:set>", views.questions, name="questions"),
 
-    path("sitemap.xml", sitemap, {'sitemaps': sitemaps}),
+    path("search", views.search, name="search"),
+
+    path("sitemap.xml", views.sitemap, name="sitemap"),
 ]

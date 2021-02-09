@@ -78,6 +78,8 @@
             <img src= {% static "assets/images/logo/logo-light.png"%} class="logo-light" alt="logo">
             <img src= {% static "assets/images/logo/logo-dark.png"%} class="logo-dark" alt="logo">
           </a>
+        
+
           <button class="navbar-toggler" type="button">
             <span class="menu-lines"><span></span></span>
           </button>
@@ -109,8 +111,22 @@
                 <a href="{% url 'contact' %}" class="nav__item-link">Contact</a>
               </li><!-- /.nav-item -->
 
+              <li class="nav__item">
+                <a href="#" class="nav__item-link  open-login-popup">Login</a>
+              </li><!-- /.nav-item -->
+
             </ul><!-- /.navbar-nav -->
-          </div><!-- /.navbar-collapse -->
+          </div><!-- /.navbar-collapse -->    
+
+            <ul class="navbar-actions list-unstyled mb-0 d-flex align-items-center">
+              <div class="widget__content">
+                <form method="get" action="/search" class="widget__form-search">
+                  <input type="text" class="form-control" placeholder="Search" name="query" id="query">
+                </form>
+              </div>
+            </ul>
+
+
         </div><!-- /.container -->
       </nav><!-- /.navabr -->
     </header><!-- /.Header -->
@@ -129,6 +145,7 @@
     {% block basesubject %}{% endblock basesubject %}
     {% block mcqs %}{% endblock mcqs %}
     {% block entry %}{% endblock entry %}
+    {% block search %}{% endblock search %}
 
  <!-- ========================
       Footer
@@ -267,6 +284,7 @@
 
     <div class="login-popup" id="login-popup">
       <div class="login-popup-wrapper">
+
         <form class="login-popup__form">
           <h3 class="login-popup__title">Login!</h3>
           <p class="login-popup__desc">Connect, organize and get things done to keep your IT business safe.</p>
@@ -287,6 +305,8 @@
           </div>
           <button type="submit" class="btn btn__secondary btn__block">Login</button>
         </form>
+
+        
         <div class="d-flex justify-content-center align-items-center mt-20">
           <span class="color-white fz-14 font-weight-bold">Don’t Have An Account?</span>
           <button id="go-register" class="go-register fz-14 font-weight-bold">
@@ -311,8 +331,8 @@
           </div>
           <div class="d-flex align-items-center justify-content-between mb-20">
             <div class="custom-control custom-checkbox d-flex align-items-center">
-              <input type="checkbox" class="custom-control-input" id="customCheck2">
-              <label class="custom-control-label" for="customCheck2">I read & agree to <a href="#">Terms &
+              <input type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">I read & agree to <a href="#">Terms &
                   Conditions</a></label>
             </div>
           </div>
@@ -327,13 +347,6 @@
       </div>
     </div><!-- /.login-popup -->
 
-    <div class="search-popup">
-      <button type="button" class="search-popup__close"><i class="fas fa-times"></i></button>
-      <form class="search-popup__form">
-        <input type="text" class="search-popup__form__input" placeholder="Type Words Then Enter">
-        <button class="search-popup__btn"><i class="icon-search"></i></button>
-      </form>
-    </div><!-- /. search-popup -->
   </div><!-- /.wrapper -->
 
 </html>

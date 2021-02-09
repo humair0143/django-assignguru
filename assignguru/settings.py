@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'home',
     'upload',
     'import_export',
+    'accounts',
 ]
 
 IMPORT_EXPORT_USE_TRANSACTIONS = True

@@ -54,9 +54,11 @@ def samples(request):
 
 # To list the questions within the selected subject and set
 def questions(request, entry, set):
-    set = Question.objects.filter(setName_id=set)
+    question = Question.objects.filter(setName_id=set)
+    setname = Set.objects.filter(id=set)
     context = {
-        'entry': set,
+        'entry': question,
+        'entry2': setname,
     }
     return render(request, "home/questions.html", context)
 
@@ -78,3 +80,19 @@ def mcqs(request):
     }
 
     return render(request, "home/subjects.html", context)
+
+
+def search(request):
+
+    query = request.GET['query']
+    allSets = Set.objects.filter(name__icontains=query)
+    
+
+    context = {
+        'allSets': allSets,
+    }
+    return render(request, "home/search.html", context)
+
+def sitemap(request):
+    return render(request, "home/sitemap.xml")
+

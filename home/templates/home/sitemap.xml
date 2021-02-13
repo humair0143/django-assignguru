@@ -1,839 +1,1899 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 		<!--	created with www.mysitemapgenerator.com	-->
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://www.assignguru.com/</loc>
-	<lastmod>2021-02-04T08:25:11+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:09+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/process</loc>
-	<lastmod>2021-02-04T08:25:11+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:09+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/services</loc>
-	<lastmod>2021-02-04T08:25:14+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:12+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/samples</loc>
-	<lastmod>2021-02-04T08:25:14+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:12+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/reviews</loc>
-	<lastmod>2021-02-04T08:25:14+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:12+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs</loc>
-	<lastmod>2021-02-04T08:25:14+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:12+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/contact</loc>
-	<lastmod>2021-02-04T08:25:15+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:13+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/1</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:13+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/2</loc>
-	<lastmod>2021-02-04T08:25:15+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:13+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/3</loc>
-	<lastmod>2021-02-04T08:25:15+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:14+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/4</loc>
-	<lastmod>2021-02-04T08:25:16+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:14+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10</loc>
-	<lastmod>2021-02-04T08:25:16+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:14+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
+	<loc>https://www.assignguru.com/mcqs/1/1</loc>
+	<lastmod>2021-02-11T20:50:14+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/2393484</loc>
+	<lastmod>2021-02-11T20:50:14+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/9932282</loc>
+	<lastmod>2021-02-11T20:50:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/14368406</loc>
+	<lastmod>2021-02-11T20:50:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/19350985</loc>
+	<lastmod>2021-02-11T20:50:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/20474097</loc>
+	<lastmod>2021-02-11T20:50:15+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/29381741</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/29491391</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/33297295</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/35577315</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/37595408</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/39539770</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/52647022</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/58686069</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/60802166</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/71587167</loc>
+	<lastmod>2021-02-11T20:50:16+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/75287432</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/78184807</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/79798825</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/81741401</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/84505126</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/89644056</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/90992303</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/98091886</loc>
+	<lastmod>2021-02-11T20:50:17+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/110646001</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/142782854</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/192722869</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/193530843</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/197955270</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/225650959</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/228253597</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/228577095</loc>
+	<lastmod>2021-02-11T20:50:18+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/232190079</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/238699053</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/246648410</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/248239149</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/250445815</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/270018933</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/281852413</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/282257079</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/307036942</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/309145967</loc>
+	<lastmod>2021-02-11T20:50:19+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/317966218</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/429931521</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/1/561519936</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
 	<loc>https://www.assignguru.com/mcqs/2/5</loc>
-	<lastmod>2021-02-04T08:25:16+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/2187577</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/3030905</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/4296306</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/6467145</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/8078283</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/13447303</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/17857385</loc>
+	<lastmod>2021-02-11T20:50:20+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/19471306</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/23529908</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/24697880</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/26461825</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/41447789</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/45686228</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/47507495</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/50138111</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/61730463</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/66067421</loc>
+	<lastmod>2021-02-11T20:50:21+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/68320810</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/71581792</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/87927595</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/90684810</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/91966367</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/93615968</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/109871784</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/119892997</loc>
+	<lastmod>2021-02-11T20:50:22+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/122792239</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/136657823</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/232883799</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/2/315677138</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/8755141</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/13800740</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/18056829</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/18728957</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/18832603</loc>
+	<lastmod>2021-02-11T20:50:23+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/19742884</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/21543843</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/22757036</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/24992628</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/26311865</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/27659726</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/30181272</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/32873654</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/33100524</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/36714483</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/36978136</loc>
+	<lastmod>2021-02-11T20:50:24+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/39183960</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/39523060</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/43182233</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/44945013</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/49214197</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/49458647</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/54984522</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/65776863</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/67756023</loc>
+	<lastmod>2021-02-11T20:50:25+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/69547559</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/70310064</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/71587492</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/73346847</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/73479971</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/73662333</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/74433633</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/78284000</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/78537962</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/78582759</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/80961303</loc>
+	<lastmod>2021-02-11T20:50:26+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/81863264</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/83446717</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/83513078</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/89380845</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/93581894</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/97665376</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/104057888</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/115504070</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/116278018</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/116650163</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/125935268</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/143048789</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/148588749</loc>
+	<lastmod>2021-02-11T20:50:27+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/156584991</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/158657869</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/170232795</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/177446497</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/182704342</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/183287826</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/186041355</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/202006685</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/207151592</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/207175454</loc>
+	<lastmod>2021-02-11T20:50:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/226422699</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/235374293</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/248566952</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/248676454</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/255025029</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/255853840</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/269456838</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/281647044</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/285926313</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/289286526</loc>
+	<lastmod>2021-02-11T20:50:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/317254268</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/322945774</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/338974959</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/342940855</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/350442000</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/360738360</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/392943584</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/406438362</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/432601689</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/466763207</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/474646089</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/538346556</loc>
+	<lastmod>2021-02-11T20:50:30+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/546303697</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/548348543</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/549942445</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/549952530</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/551619903</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/551620460</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/558484736</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/558485720</loc>
+	<lastmod>2021-02-11T20:50:31+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/559335042</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/560174339</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/561173793</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/561181101</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/561273996</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/563858844</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/3/565422540</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/4/2</loc>
-	<lastmod>2021-02-04T08:25:16+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/4/3</loc>
-	<lastmod>2021-02-04T08:25:16+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/4/4</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/1759709</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/5135541</loc>
+	<lastmod>2021-02-11T20:50:32+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/5918229</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/7777133</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/12856347</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/13084704</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/13414159</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/14683212</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/17442344</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/18474836</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/19015910</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/23494797</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/24827480</loc>
+	<lastmod>2021-02-11T20:50:33+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/28390807</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/33341418</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/45296037</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/45844469</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/47203801</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/53789942</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/57126043</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/62825715</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/68545348</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/71044707</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/94906392</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/94997998</loc>
+	<lastmod>2021-02-11T20:50:34+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/96554476</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/111508964</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/128167837</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/128537213</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/140228978</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/141403299</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/148123802</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/162028541</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/175700031</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/213723253</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/253110061</loc>
+	<lastmod>2021-02-11T20:50:35+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/267541947</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/289104749</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/318680818</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/334319492</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/361930787</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/398107130</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.assignguru.com/mcqs/4/418879575</loc>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/3376320</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/5815271</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/6298437</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/7990956</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:36+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/9726592</loc>
-	<lastmod>2021-02-04T08:25:17+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/10550639</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/10662416</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/12578658</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/21527774</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/22093828</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/24162477</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/27085387</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/32029856</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:37+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/32738793</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/35075366</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/56042168</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/62327187</loc>
-	<lastmod>2021-02-04T08:25:18+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/72278101</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/82002319</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/95384425</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/102652276</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/111209119</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:38+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/112615236</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/119893245</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/122832988</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/128846446</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/138278011</loc>
-	<lastmod>2021-02-04T08:25:19+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/142796836</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/146692648</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/146942903</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/150424959</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:39+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/166839589</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/173449100</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/174630715</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/184831830</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/188046876</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/193106418</loc>
-	<lastmod>2021-02-04T08:25:20+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/203236239</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/216744125</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/218504737</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/219561517</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/221534830</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/221860772</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/223557505</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:40+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/227121319</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/227606609</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/231880009</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/236040600</loc>
-	<lastmod>2021-02-04T08:25:21+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/236417948</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/240278214</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/240313685</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/242615759</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/244930053</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/250843650</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/255600821</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/256584529</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/260384175</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:41+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/260991222</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/274798873</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/281135465</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/281152506</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/289116939</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/293115593</loc>
-	<lastmod>2021-02-04T08:25:22+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/296427533</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/314896533</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/318878400</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:42+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/319309519</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/322141245</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/323381018</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/325756637</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/329548339</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/342201909</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/343305615</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/345879126</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/349603408</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:43+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/350741399</loc>
-	<lastmod>2021-02-04T08:25:23+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/357132548</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/358265777</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/365371725</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/374671853</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/381849037</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/383874542</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/387979742</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:44+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/402615980</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/403250903</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/403807500</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/408521867</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/416588235</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/416604045</loc>
-	<lastmod>2021-02-04T08:25:24+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/417163502</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/418873209</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:45+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/435250296</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/440786672</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/442723995</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/443647106</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/445455493</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/447991788</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/460320329</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/460417643</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:46+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/464507061</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/465512006</loc>
-	<lastmod>2021-02-04T08:25:25+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/465719380</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/471089644</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/474452493</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/476129959</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/477094819</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/482304032</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:47+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/486813016</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/487132085</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/489026275</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/489654951</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/495547305</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/498006846</loc>
-	<lastmod>2021-02-04T08:25:26+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/499068531</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/501545467</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/502139138</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:48+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/502662007</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:49+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/502895535</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:49+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/504958190</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:49+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/511677212</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:49+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/513546378</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:49+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/518387894</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/518512716</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/518514854</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/524138321</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/524762571</loc>
-	<lastmod>2021-02-04T08:25:27+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:50+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/525165185</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/525464310</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/538498981</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/539267572</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/539408483</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/539663465</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/540212946</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/541201582</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:51+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/541531984</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/541640647</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/541713587</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/541860018</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/543418338</loc>
-	<lastmod>2021-02-04T08:25:28+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/543449117</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/543750555</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/544803792</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:52+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/545394580</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/551572920</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/559677640</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/559797322</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/560582291</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/562820070</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/563183064</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.assignguru.com/mcqs/10/564553110</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.assignguru.com/mcqs/1/1</loc>
-	<lastmod>2021-02-04T08:25:29+01:00</lastmod>
+	<lastmod>2021-02-11T20:50:53+01:00</lastmod>
 	<priority>0.6</priority>
 </url>
 </urlset>

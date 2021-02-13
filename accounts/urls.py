@@ -1,16 +1,8 @@
 from django.urls import path
-
-
-from accounts.views import (
-    login_view,
-    logout_view,
-    register_view,
-)
-
-from django.views.generic import TemplateView
+from . import views
 
 urlpatterns = [
-    path('login/', login_view),
-    path('logout/', logout_view),
-    path('register/', register_view),
+    path('login', views.login_view, name='login'),
+    path('logout', views.logout_view, name='logout'),
+    path('register', views.register_view, name='register'),
 ]

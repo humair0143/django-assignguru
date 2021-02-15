@@ -30,6 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'www.assignguru.com',
     '127.0.0.1',
+    '47.254.195.180',
     ]
 
 
@@ -90,8 +91,12 @@ WSGI_APPLICATION = 'assignguru.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'assignguru_master',
+        'USER': 'assign',
+        'PASSWORD': '!Assignguru1',
+        'HOST': 'assignguru.cdfasrd5pbnl.ca-central-1.rds.amazonaws.com',
+        'PORT': '5434',
     }
 }
 
